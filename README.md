@@ -295,7 +295,85 @@ Requisitos de instalación: PIP también puede leer archivos de requisitos (por 
 
 Entornos virtuales: PIP se utiliza comúnmente en conjunción con entornos virtuales para aislar las dependencias de diferentes proyectos. Los entornos virtuales permiten tener diferentes conjuntos de paquetes instalados en cada proyecto, lo que evita conflictos de dependencias entre ellos.
 
+<br>
 
+### 10.Hacer un listado de módulos populares para python que se puedan instalar com pip y consultar cómo instalarlos.
+
+ Esta es una lista de algunos módulos populares de Python que se pueden instalar con PIP, junto con instrucciones sobre cómo instalarlos utilizando PIP:
+
+1.requests: Es una biblioteca HTTP para Python que permite enviar solicitudes HTTP de manera sencilla y eficiente.
+<br>
+
+```
+pip install requests
+
+```
+2.numpy: Es una biblioteca de Python utilizada para trabajar con matrices y arreglos multidimensionales. Es muy útil para realizar operaciones numéricas y matemáticas eficientes.
+<br>
+
+```
+pip install numpy
+
+```
+3.pandas: Es una biblioteca de Python utilizada para el análisis y la manipulación de datos. Proporciona estructuras de datos y herramientas para trabajar con datos de manera fácil y eficiente.
+<br>
+
+```
+pip install pandas
+
+```
+4.matplotlib: Es una biblioteca de Python para crear visualizaciones estáticas, interactivas y animadas en Python.
+<br>
+
+```
+
+pip install matplotlib
+
+```
+5.scikit-learn: Es una biblioteca de aprendizaje automático de Python que proporciona herramientas simples y eficientes para la minería y el análisis de datos.
+<br>
+
+```
+pip install scikit-learn
+
+```
+6.tensorflow: Es una biblioteca de código abierto de aprendizaje automático desarrollada por Google. Se utiliza para construir y entrenar modelos de aprendizaje automático.
+<br>
+
+```
+pip install tensorflow
+
+```
+7.pytorch: Es una biblioteca de aprendizaje profundo de código abierto desarrollada por Facebook. Se utiliza para construir y entrenar modelos de aprendizaje profundo.
+<br>
+
+```
+pip install torch torchvision
+
+```
+8.flask: Es un framework de desarrollo web ligero y flexible para Python. Se utiliza para crear aplicaciones web rápidas y escalables.
+<br>
+
+```
+pip install flask
+
+```
+9.django: Es un framework de desarrollo web de alto nivel para Python que fomenta el desarrollo rápido y el diseño limpio y pragmático.
+<br>
+```
+pip install django
+
+
+```
+10.pytest: Es una biblioteca de pruebas para Python que facilita la escritura y ejecución de pruebas unitarias y de integración.
+<br>
+
+```
+pip install pytest
+
+
+```
+Estos son solo algunos ejemplos de módulos populares de Python que se pueden instalar con PIP. Para instalar cualquier otro módulo de Python, simplemente ejecuta pip install nombre_del_modulo,y probablemente se necesitara ejecutar pip con sudo en Mac y Linux (no en Windows).
 
 
 
